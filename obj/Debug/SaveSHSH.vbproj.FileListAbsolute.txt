@@ -1,0 +1,11 @@
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\bin\Debug\SaveSHSH.exe.config
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\bin\Debug\SaveSHSH.exe
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\bin\Debug\SaveSHSH.pdb
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\bin\Debug\SaveSHSH.xml
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.vbprojResolveAssemblyReference.cache
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.Form1.resources
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.Resources.resources
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.vbproj.GenerateResource.Cache
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.exe
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.xml
+C:\Users\henry\Google Drive\Misc\VB .NET\SaveSHSH\SaveSHSH\obj\Debug\SaveSHSH.pdb
